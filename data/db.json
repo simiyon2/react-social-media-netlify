@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "first post",
+      "datetime": "Aug,31,2023 10:10:12 AM",
+      "body": "make video of first post"
+    },
+    {
+      "id": 2,
+      "title": "second post test uuyy",
+      "datetime": "November 05 2023 1:00:29 PM",
+      "body": "make video of 2nd post testyy"
+    },
+    {
+      "id": 3,
+      "title": "finished",
+      "datetime": "November 05, 2023 1:00:44 PM",
+      "body": "react js"
+    }
+  ]
+}
